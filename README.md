@@ -1,5 +1,3 @@
-# Online-Voting-System
-
 # Online Voting System
 By Prasanna Raj Mallipudi
 ## About the Project
